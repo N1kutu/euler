@@ -1,0 +1,14 @@
+$ ruby euler-1-multiples-of-3-or-5.rb 0
+0
+$ ruby euler-1-multiples-of-3-or-5.rb 10
+23
+$ ruby euler-1-multiples-of-3-or-5.rb 100
+2318
+$ ruby euler-1-multiples-of-3-or-5.rb 500
+57918
+$ ruby euler-1-multiples-of-3-or-5.rb 1000
+233168
+$ ruby euler-1-multiples-of-3-or-5.rb 5000
+5829168
+$ ruby euler-1-multiples-of-3-or-5.rb 10000
+23331668
